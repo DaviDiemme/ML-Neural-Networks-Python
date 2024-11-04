@@ -1,1 +1,3 @@
-All the files in this repository are Jupyter files and can be read using jupyter or google colab
+Some files in this repository are Jupyter files and can be read using Jupyter or Google Colab
+
+The Python codes are extracted from the respective Jupyter files
